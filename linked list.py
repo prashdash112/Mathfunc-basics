@@ -22,6 +22,6 @@ if __name__=='__main__':
     
     nxt3=node(100)
     
-    lst.head.next=nxt2 # defining relations between different pointers
+    lst.head.next=nxt2 # defining relations between different nodes
     
     nxt2.next=nxt3
